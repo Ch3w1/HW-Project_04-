@@ -1,0 +1,6 @@
+url_base_page = "https://b2c.passport.rt.ru/"
+url_pass_recovery = "https://b2c.passport.rt.ru/auth/realms/b2c/login-actions/reset-credentials"
+valid_email = "nikolay_erokhin@gmail.com"
+valid_password = "Gogogogo1"
+valid_password2 = "Gogogogo2"
+invalid_password = "Gogogo"
